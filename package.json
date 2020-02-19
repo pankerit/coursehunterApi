@@ -1,0 +1,19 @@
+{
+	"name": "course_hunters_api",
+	"version": "1.0.0",
+	"main": "build/index.js",
+	"scripts": {
+		"start": "nodemon"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"@types/cheerio": "^0.22.16",
+		"@types/node": "^13.7.1",
+		"@types/node-fetch": "^2.5.4",
+		"cheerio": "^1.0.0-rc.3",
+		"node-fetch": "^2.6.0",
+		"nodemon": "^2.0.2",
+		"ts-node": "^8.6.2",
+		"typescript": "^3.7.5"
+	}
+}
